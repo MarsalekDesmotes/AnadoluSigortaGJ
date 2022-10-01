@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Coal
+  - Meteor
+  - Line
+  - Ates
   layers:
   - Default
   - TransparentFX
@@ -17,7 +20,7 @@ TagManager:
   - Train
   - Crates
   - Coal
-  - 
+  - Meteor
   - 
   - 
   - 
