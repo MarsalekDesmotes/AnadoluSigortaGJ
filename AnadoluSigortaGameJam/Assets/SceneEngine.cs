@@ -26,4 +26,10 @@ public class SceneEngine : MonoBehaviour
         Application.Quit();
 
     }
+
+    public void ReturnTheMenu()
+    {
+        SceneManager.LoadScene("Demo 02");      
+    }
+
 }

@@ -54,7 +54,10 @@ public class TimeManager : MonoBehaviour
 
     }
 
-   
+    private void Start()
+    {
+        Time.timeScale = 1f;
+    }
 
     public void slowMotionEffectCall()
     {   
